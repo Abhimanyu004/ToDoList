@@ -1,0 +1,26 @@
+#title{
+    position: absolute;
+    right: 20%;
+}
+
+.contaier{
+    position: absolute;
+    right: 45%;
+}
+
+#container{
+    border: solid black;
+    position: absolute;
+    bottom: 32%;
+    right: 34%;
+    height: 40%;
+    width: 30%;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#mark{
+    position: fixed;
+    bottom: 0;
+    right: 45%;
+}
